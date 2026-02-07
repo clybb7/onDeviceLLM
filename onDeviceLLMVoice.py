@@ -1,3 +1,6 @@
+# Created by Carter Lybbert January 6 2026 
+# carterlybbert46@gmail.com
+
 import os
 import json
 import re
